@@ -43,7 +43,7 @@ I'm now looking for my first full-time role as a full-stack developer or softwar
 
 ### Projects:
 
-<h1><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6e62ca6b-cbc6-4495-b5b4-24fbfac0106e" align="absmiddle"/><a href="https://github.com/Robert-w1/voxify">&nbsp;Voxify</a></h1>
+<h3><img width="20" height="20" alt="logo" src="assets/voxify_logo.svg" /> <a href="https://github.com/Robert-w1/voxify">Voxify</a></h3>
 
 AI-powered presentation coach built in a team of three as a bootcamp project. Record yourself, receive relevant and individual feedback and improve your presentation skills.
 
@@ -51,7 +51,7 @@ AI-powered presentation coach built in a team of three as a bootcamp project. Re
 
 Backend (Ruby on Rails) · Audio recording & processing (MediaSourceAPI, JavaScript Stimulus) · Speech-to-text transcription (Deepgram API) · LLM feedback generation (OpenAI API)· Tests (model, controller, job, system and JavaScript unit) · CI (Github Actions)
 
-[<b>Luminary</b>](https://github.com/Robert-w1/prompt-app)
+<h3><img width="20" height="20" alt="logo" src="assets/luminary_logo.png" /> <a href="https://github.com/Robert-w1/prompt-app">Luminary</a></h3>
 
 Most people type a question and hope for the best. Luminary turns what you actually mean into a prompt that makes AI perform at its ceiling. Built in a team of four as a bootcamp project.
 
