@@ -41,7 +41,3 @@ I'm now looking for my first full-time role as a full-stack developer or softwar
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuejs" /></a>
 </p>
 
-<h3>📊Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Robert-w1&show_icons=true&locale=en&layout=compact" alt="Robert-w1" /></p>
-
-
